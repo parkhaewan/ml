@@ -21,3 +21,5 @@ jupyter notebook
 DecisionTree ipynb : 의사결정나무 예제
 
 Boosting ipynb : 앙상블 기법 중 boosting 관련 예제
+
+![tree image](C:\apps\ml\tree.png)
